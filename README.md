@@ -1,9 +1,6 @@
 # Somto's Notes
 
-## This is an H2 header.
+## Summary
 
-### This is an H3 header.
-.
-.
-.
-###### This is an H6 header. (smallest)
+This repository contains all of the notes taken by [Somto](https://github.com/Somtico) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
